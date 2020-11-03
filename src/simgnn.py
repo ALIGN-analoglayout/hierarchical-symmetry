@@ -1,12 +1,13 @@
 """SimGNN class and runner."""
 """Source: https://github.com/benedekrozemberczki/SimGNN/tree/master/src"""
+"""modified by kishor kunal to consider edge weights"""
 import glob
 import torch
 import random
 import numpy as np
 import math
 from tqdm import tqdm, trange
-#from torch_geometric.nn import GCNConv
+from os import path
 from layers import GCNConv
 from layers import AttentionModule, TenorNetworkModule
 from utils import process_pair, calculate_loss, calculate_normalized_ged, reverse_normalized_ged
@@ -253,18 +254,19 @@ class SimGNNTrainer(object):
             print('Training Loss: {:.4f}'.format(loss))
             self.model.train(False)
             self.score()
-
-        #PATH='/home/kunal001/Desktop/research_work/SimGNN/simgnn/savedModel/model.pth'
-        #torch.save(self.model, PATH)
+        if self.args.save_model:
+            PATH='savedModel/model.pth'
+            torch.save(self.model, PATH)
 
     def score(self):
         """
         Scoring on the test set.
         """
         print("\n\nModel evaluation.\n")
-        #PATH='/home/kunal001/Desktop/research_work/SimGNN/simgnn/savedModel/model.pth'
-        #self.model=torch.load(PATH)
-        self.model.eval()
+        if path.isfile(self.args.saved_model):
+            self.model=torch.load(self.args.saved_model)
+            self.model.train(False)
+            self.model.eval()
         self.scores = []
         self.ground_truth = []
         for graph_pair in tqdm(self.testing_graphs):
@@ -285,8 +287,7 @@ class SimGNNTrainer(object):
         norm_ged_mean = np.mean(self.ground_truth)
         base_error = np.mean([(n-norm_ged_mean)**2 for n in self.ground_truth])
         model_error = np.mean(self.scores)
-        #PATH='/home/kunal001/Desktop/research_work/SimGNN/simgnn/savedModel/model.pth'
-        #torch.save(self.model.state_dict(), '/home/kunal001/Desktop/research_work/SimGNN/simgnn/savedModel/model.pth')
+        #PATH='/home/kunal001/Desktop/research_work/SimGNN/simgnn_kunal_bkp/hierarchical-symmetry/savedModel/model.pth'
         #torch.save(self.model, PATH)
         #print("\nBaseline error: " +str(round(base_error, 5))+".")
         print("\nModel test error: " +str(round(model_error, 5)))

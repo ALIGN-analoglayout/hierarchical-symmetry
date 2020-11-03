@@ -19,6 +19,16 @@ def parameter_parser():
                         default="./dataset/test/",
 	                help="Folder with testing graph pair jsons.")
 
+    parser.add_argument("--saved-model",
+                        nargs='?',
+                        default="savedModel/model.pth",
+	                help="Path of saved model. savedModel/model.pth.")
+
+    parser.add_argument("-s"
+                        "--save-model",
+                        action ="store_true",
+	                help="save model to savedModel/model.pth.")
+
     parser.add_argument("--epochs",
                         type=int,
                         default=5,

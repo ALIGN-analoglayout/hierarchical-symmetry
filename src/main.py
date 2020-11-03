@@ -1,5 +1,5 @@
 """SimGNN runner."""
-
+from os import path
 from utils import tab_printer
 from simgnn import SimGNNTrainer
 from param_parser import parameter_parser
@@ -10,10 +10,14 @@ def main():
     Fitting and scoring a SimGNN model.
     """
     args = parameter_parser()
-    tab_printer(args)
-    trainer = SimGNNTrainer(args)
-    trainer.fit()
-    trainer.score()
+    if path.isfile(args.saved_model):
+        trainer = SimGNNTrainer(args)
+        trainer.score()
+    else:
+        tab_printer(args)
+        trainer = SimGNNTrainer(args)
+        trainer.fit()
+        trainer.score()
 
 if __name__ == "__main__":
     main()
