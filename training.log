@@ -1,0 +1,3541 @@
++---------------------+------------------+
+|     Batch size      |        2         |
++=====================+==================+
+| Bins                | 16               |
++---------------------+------------------+
+| Bottle neck neurons | 8                |
++---------------------+------------------+
+| Dropout             | 0.500            |
++---------------------+------------------+
+| Epochs              | 500              |
++---------------------+------------------+
+| Filters 1           | 64               |
++---------------------+------------------+
+| Filters 2           | 32               |
++---------------------+------------------+
+| Filters 3           | 16               |
++---------------------+------------------+
+| Histogram           | 0                |
++---------------------+------------------+
+| Learning rate       | 0.001            |
++---------------------+------------------+
+| Tensor neurons      | 8                |
++---------------------+------------------+
+| Testing graphs      | ./dataset/test/  |
++---------------------+------------------+
+| Training graphs     | ./dataset/train/ |
++---------------------+------------------+
+| Weight decay        | 0.001            |
++---------------------+------------------+
+
+Enumerating unique labels.
+
+
+Model training.
+
+Training Loss: 0.1345
+
+
+Model evaluation.
+
+
+Model test error: 0.61342
+Training Loss: 0.1092
+
+
+Model evaluation.
+
+
+Model test error: 0.47339
+Training Loss: 0.1051
+
+
+Model evaluation.
+
+
+Model test error: 0.49806
+Training Loss: 0.1009
+
+
+Model evaluation.
+
+
+Model test error: 0.45965
+Training Loss: 0.0983
+
+
+Model evaluation.
+
+
+Model test error: 0.45943
+Training Loss: 0.0985
+
+
+Model evaluation.
+
+
+Model test error: 0.46158
+Training Loss: 0.0984
+
+
+Model evaluation.
+
+
+Model test error: 0.47514
+Training Loss: 0.0957
+
+
+Model evaluation.
+
+
+Model test error: 0.42452
+Training Loss: 0.0925
+
+
+Model evaluation.
+
+
+Model test error: 0.41847
+Training Loss: 0.0975
+
+
+Model evaluation.
+
+
+Model test error: 0.46678
+Training Loss: 0.0908
+
+
+Model evaluation.
+
+
+Model test error: 0.39081
+Training Loss: 0.0988
+
+
+Model evaluation.
+
+
+Model test error: 0.49373
+Training Loss: 0.0935
+
+
+Model evaluation.
+
+
+Model test error: 0.42405
+Training Loss: 0.0870
+
+
+Model evaluation.
+
+
+Model test error: 0.39031
+Training Loss: 0.0924
+
+
+Model evaluation.
+
+
+Model test error: 0.43617
+Training Loss: 0.0909
+
+
+Model evaluation.
+
+
+Model test error: 0.45677
+Training Loss: 0.0920
+
+
+Model evaluation.
+
+
+Model test error: 0.38546
+Training Loss: 0.0857
+
+
+Model evaluation.
+
+
+Model test error: 0.38718
+Training Loss: 0.0864
+
+
+Model evaluation.
+
+
+Model test error: 0.47095
+Training Loss: 0.0850
+
+
+Model evaluation.
+
+
+Model test error: 0.41184
+Training Loss: 0.0998
+
+
+Model evaluation.
+
+
+Model test error: 0.45753
+Training Loss: 0.0863
+
+
+Model evaluation.
+
+
+Model test error: 0.37261
+Training Loss: 0.0906
+
+
+Model evaluation.
+
+
+Model test error: 0.44735
+Training Loss: 0.0926
+
+
+Model evaluation.
+
+
+Model test error: 0.42399
+Training Loss: 0.0882
+
+
+Model evaluation.
+
+
+Model test error: 0.46509
+Training Loss: 0.0823
+
+
+Model evaluation.
+
+
+Model test error: 0.38833
+Training Loss: 0.0809
+
+
+Model evaluation.
+
+
+Model test error: 0.45869
+Training Loss: 0.0833
+
+
+Model evaluation.
+
+
+Model test error: 0.42715
+Training Loss: 0.0773
+
+
+Model evaluation.
+
+
+Model test error: 0.38036
+Training Loss: 0.0822
+
+
+Model evaluation.
+
+
+Model test error: 0.39996
+Training Loss: 0.0817
+
+
+Model evaluation.
+
+
+Model test error: 0.38916
+Training Loss: 0.0834
+
+
+Model evaluation.
+
+
+Model test error: 0.49644
+Training Loss: 0.0767
+
+
+Model evaluation.
+
+
+Model test error: 0.43109
+Training Loss: 0.0800
+
+
+Model evaluation.
+
+
+Model test error: 0.41502
+Training Loss: 0.0749
+
+
+Model evaluation.
+
+
+Model test error: 0.3979
+Training Loss: 0.0745
+
+
+Model evaluation.
+
+
+Model test error: 0.38264
+Training Loss: 0.0764
+
+
+Model evaluation.
+
+
+Model test error: 0.38643
+Training Loss: 0.0732
+
+
+Model evaluation.
+
+
+Model test error: 0.3754
+Training Loss: 0.0743
+
+
+Model evaluation.
+
+
+Model test error: 0.46954
+Training Loss: 0.0743
+
+
+Model evaluation.
+
+
+Model test error: 0.42485
+Training Loss: 0.0718
+
+
+Model evaluation.
+
+
+Model test error: 0.40114
+Training Loss: 0.0691
+
+
+Model evaluation.
+
+
+Model test error: 0.39368
+Training Loss: 0.0755
+
+
+Model evaluation.
+
+
+Model test error: 0.407
+Training Loss: 0.0670
+
+
+Model evaluation.
+
+
+Model test error: 0.4191
+Training Loss: 0.0793
+
+
+Model evaluation.
+
+
+Model test error: 0.36197
+Training Loss: 0.0678
+
+
+Model evaluation.
+
+
+Model test error: 0.4087
+Training Loss: 0.0697
+
+
+Model evaluation.
+
+
+Model test error: 0.41595
+Training Loss: 0.0767
+
+
+Model evaluation.
+
+
+Model test error: 0.56012
+Training Loss: 0.0860
+
+
+Model evaluation.
+
+
+Model test error: 0.36246
+Training Loss: 0.0730
+
+
+Model evaluation.
+
+
+Model test error: 0.37844
+Training Loss: 0.0721
+
+
+Model evaluation.
+
+
+Model test error: 0.37211
+Training Loss: 0.0681
+
+
+Model evaluation.
+
+
+Model test error: 0.39388
+Training Loss: 0.0721
+
+
+Model evaluation.
+
+
+Model test error: 0.35587
+Training Loss: 0.0683
+
+
+Model evaluation.
+
+
+Model test error: 0.37943
+Training Loss: 0.0668
+
+
+Model evaluation.
+
+
+Model test error: 0.38494
+Training Loss: 0.0686
+
+
+Model evaluation.
+
+
+Model test error: 0.35507
+Training Loss: 0.0683
+
+
+Model evaluation.
+
+
+Model test error: 0.37472
+Training Loss: 0.0654
+
+
+Model evaluation.
+
+
+Model test error: 0.37737
+Training Loss: 0.0608
+
+
+Model evaluation.
+
+
+Model test error: 0.38607
+Training Loss: 0.0697
+
+
+Model evaluation.
+
+
+Model test error: 0.40523
+Training Loss: 0.0749
+
+
+Model evaluation.
+
+
+Model test error: 0.47283
+Training Loss: 0.0626
+
+
+Model evaluation.
+
+
+Model test error: 0.30751
+Training Loss: 0.0625
+
+
+Model evaluation.
+
+
+Model test error: 0.24886
+Training Loss: 0.0572
+
+
+Model evaluation.
+
+
+Model test error: 0.24655
+Training Loss: 0.0621
+
+
+Model evaluation.
+
+
+Model test error: 0.33889
+Training Loss: 0.0577
+
+
+Model evaluation.
+
+
+Model test error: 0.34668
+Training Loss: 0.0586
+
+
+Model evaluation.
+
+
+Model test error: 0.16183
+Training Loss: 0.0628
+
+
+Model evaluation.
+
+
+Model test error: 0.25452
+Training Loss: 0.0520
+
+
+Model evaluation.
+
+
+Model test error: 0.27229
+Training Loss: 0.0507
+
+
+Model evaluation.
+
+
+Model test error: 0.20416
+Training Loss: 0.0504
+
+
+Model evaluation.
+
+
+Model test error: 0.23331
+Training Loss: 0.0439
+
+
+Model evaluation.
+
+
+Model test error: 0.19548
+Training Loss: 0.0479
+
+
+Model evaluation.
+
+
+Model test error: 0.23825
+Training Loss: 0.0494
+
+
+Model evaluation.
+
+
+Model test error: 0.16072
+Training Loss: 0.0481
+
+
+Model evaluation.
+
+
+Model test error: 0.27503
+Training Loss: 0.0447
+
+
+Model evaluation.
+
+
+Model test error: 0.21905
+Training Loss: 0.0380
+
+
+Model evaluation.
+
+
+Model test error: 0.092
+Training Loss: 0.0409
+
+
+Model evaluation.
+
+
+Model test error: 0.25374
+Training Loss: 0.0343
+
+
+Model evaluation.
+
+
+Model test error: 0.09929
+Training Loss: 0.0339
+
+
+Model evaluation.
+
+
+Model test error: 0.22308
+Training Loss: 0.0398
+
+
+Model evaluation.
+
+
+Model test error: 0.07941
+Training Loss: 0.0354
+
+
+Model evaluation.
+
+
+Model test error: 0.07617
+Training Loss: 0.0300
+
+
+Model evaluation.
+
+
+Model test error: 0.1989
+Training Loss: 0.0362
+
+
+Model evaluation.
+
+
+Model test error: 0.05895
+Training Loss: 0.0332
+
+
+Model evaluation.
+
+
+Model test error: 0.06351
+Training Loss: 0.0331
+
+
+Model evaluation.
+
+
+Model test error: 0.06066
+Training Loss: 0.0415
+
+
+Model evaluation.
+
+
+Model test error: 0.07442
+Training Loss: 0.0271
+
+
+Model evaluation.
+
+
+Model test error: 0.05162
+Training Loss: 0.0268
+
+
+Model evaluation.
+
+
+Model test error: 0.05514
+Training Loss: 0.0304
+
+
+Model evaluation.
+
+
+Model test error: 0.05578
+Training Loss: 0.0247
+
+
+Model evaluation.
+
+
+Model test error: 0.0426
+Training Loss: 0.0256
+
+
+Model evaluation.
+
+
+Model test error: 0.04005
+Training Loss: 0.0255
+
+
+Model evaluation.
+
+
+Model test error: 0.05438
+Training Loss: 0.0241
+
+
+Model evaluation.
+
+
+Model test error: 0.08239
+Training Loss: 0.0272
+
+
+Model evaluation.
+
+
+Model test error: 0.0404
+Training Loss: 0.0251
+
+
+Model evaluation.
+
+
+Model test error: 0.0735
+Training Loss: 0.0200
+
+
+Model evaluation.
+
+
+Model test error: 0.04065
+Training Loss: 0.0228
+
+
+Model evaluation.
+
+
+Model test error: 0.0566
+Training Loss: 0.0244
+
+
+Model evaluation.
+
+
+Model test error: 0.04083
+Training Loss: 0.0205
+
+
+Model evaluation.
+
+
+Model test error: 0.03981
+Training Loss: 0.0201
+
+
+Model evaluation.
+
+
+Model test error: 0.03598
+Training Loss: 0.0228
+
+
+Model evaluation.
+
+
+Model test error: 0.09443
+Training Loss: 0.0272
+
+
+Model evaluation.
+
+
+Model test error: 0.04074
+Training Loss: 0.0162
+
+
+Model evaluation.
+
+
+Model test error: 0.03972
+Training Loss: 0.0208
+
+
+Model evaluation.
+
+
+Model test error: 0.05133
+Training Loss: 0.0222
+
+
+Model evaluation.
+
+
+Model test error: 0.04124
+Training Loss: 0.0189
+
+
+Model evaluation.
+
+
+Model test error: 0.05432
+Training Loss: 0.0206
+
+
+Model evaluation.
+
+
+Model test error: 0.06743
+Training Loss: 0.0193
+
+
+Model evaluation.
+
+
+Model test error: 0.04843
+Training Loss: 0.0195
+
+
+Model evaluation.
+
+
+Model test error: 0.05926
+Training Loss: 0.0238
+
+
+Model evaluation.
+
+
+Model test error: 0.03706
+Training Loss: 0.0188
+
+
+Model evaluation.
+
+
+Model test error: 0.04589
+Training Loss: 0.0177
+
+
+Model evaluation.
+
+
+Model test error: 0.04138
+Training Loss: 0.0190
+
+
+Model evaluation.
+
+
+Model test error: 0.09901
+Training Loss: 0.0189
+
+
+Model evaluation.
+
+
+Model test error: 0.14128
+Training Loss: 0.0170
+
+
+Model evaluation.
+
+
+Model test error: 0.09842
+Training Loss: 0.0142
+
+
+Model evaluation.
+
+
+Model test error: 0.04158
+Training Loss: 0.0182
+
+
+Model evaluation.
+
+
+Model test error: 0.04815
+Training Loss: 0.0176
+
+
+Model evaluation.
+
+
+Model test error: 0.114
+Training Loss: 0.0178
+
+
+Model evaluation.
+
+
+Model test error: 0.10653
+Training Loss: 0.0152
+
+
+Model evaluation.
+
+
+Model test error: 0.05125
+Training Loss: 0.0165
+
+
+Model evaluation.
+
+
+Model test error: 0.08295
+Training Loss: 0.0143
+
+
+Model evaluation.
+
+
+Model test error: 0.08858
+Training Loss: 0.0175
+
+
+Model evaluation.
+
+
+Model test error: 0.16186
+Training Loss: 0.0159
+
+
+Model evaluation.
+
+
+Model test error: 0.12441
+Training Loss: 0.0143
+
+
+Model evaluation.
+
+
+Model test error: 0.04541
+Training Loss: 0.0164
+
+
+Model evaluation.
+
+
+Model test error: 0.0828
+Training Loss: 0.0147
+
+
+Model evaluation.
+
+
+Model test error: 0.06416
+Training Loss: 0.0177
+
+
+Model evaluation.
+
+
+Model test error: 0.05943
+Training Loss: 0.0147
+
+
+Model evaluation.
+
+
+Model test error: 0.05886
+Training Loss: 0.0133
+
+
+Model evaluation.
+
+
+Model test error: 0.04474
+Training Loss: 0.0165
+
+
+Model evaluation.
+
+
+Model test error: 0.09934
+Training Loss: 0.0155
+
+
+Model evaluation.
+
+
+Model test error: 0.05047
+Training Loss: 0.0136
+
+
+Model evaluation.
+
+
+Model test error: 0.07553
+Training Loss: 0.0122
+
+
+Model evaluation.
+
+
+Model test error: 0.06933
+Training Loss: 0.0151
+
+
+Model evaluation.
+
+
+Model test error: 0.24627
+Training Loss: 0.0140
+
+
+Model evaluation.
+
+
+Model test error: 0.09267
+Training Loss: 0.0150
+
+
+Model evaluation.
+
+
+Model test error: 0.1266
+Training Loss: 0.0148
+
+
+Model evaluation.
+
+
+Model test error: 0.10743
+Training Loss: 0.0168
+
+
+Model evaluation.
+
+
+Model test error: 0.0795
+Training Loss: 0.0121
+
+
+Model evaluation.
+
+
+Model test error: 0.07028
+Training Loss: 0.0101
+
+
+Model evaluation.
+
+
+Model test error: 0.11385
+Training Loss: 0.0164
+
+
+Model evaluation.
+
+
+Model test error: 0.07842
+Training Loss: 0.0160
+
+
+Model evaluation.
+
+
+Model test error: 0.06133
+Training Loss: 0.0159
+
+
+Model evaluation.
+
+
+Model test error: 0.13835
+Training Loss: 0.0138
+
+
+Model evaluation.
+
+
+Model test error: 0.10998
+Training Loss: 0.0145
+
+
+Model evaluation.
+
+
+Model test error: 0.13626
+Training Loss: 0.0120
+
+
+Model evaluation.
+
+
+Model test error: 0.07476
+Training Loss: 0.0141
+
+
+Model evaluation.
+
+
+Model test error: 0.21832
+Training Loss: 0.0131
+
+
+Model evaluation.
+
+
+Model test error: 0.19249
+Training Loss: 0.0122
+
+
+Model evaluation.
+
+
+Model test error: 0.13983
+Training Loss: 0.0135
+
+
+Model evaluation.
+
+
+Model test error: 0.05838
+Training Loss: 0.0157
+
+
+Model evaluation.
+
+
+Model test error: 0.11188
+Training Loss: 0.0130
+
+
+Model evaluation.
+
+
+Model test error: 0.06914
+Training Loss: 0.0146
+
+
+Model evaluation.
+
+
+Model test error: 0.06726
+Training Loss: 0.0129
+
+
+Model evaluation.
+
+
+Model test error: 0.0771
+Training Loss: 0.0106
+
+
+Model evaluation.
+
+
+Model test error: 0.16737
+Training Loss: 0.0114
+
+
+Model evaluation.
+
+
+Model test error: 0.15177
+Training Loss: 0.0117
+
+
+Model evaluation.
+
+
+Model test error: 0.10986
+Training Loss: 0.0129
+
+
+Model evaluation.
+
+
+Model test error: 0.20737
+Training Loss: 0.0122
+
+
+Model evaluation.
+
+
+Model test error: 0.12306
+Training Loss: 0.0134
+
+
+Model evaluation.
+
+
+Model test error: 0.22189
+Training Loss: 0.0119
+
+
+Model evaluation.
+
+
+Model test error: 0.13824
+Training Loss: 0.0127
+
+
+Model evaluation.
+
+
+Model test error: 0.16441
+Training Loss: 0.0125
+
+
+Model evaluation.
+
+
+Model test error: 0.13421
+Training Loss: 0.0118
+
+
+Model evaluation.
+
+
+Model test error: 0.16787
+Training Loss: 0.0120
+
+
+Model evaluation.
+
+
+Model test error: 0.19954
+Training Loss: 0.0107
+
+
+Model evaluation.
+
+
+Model test error: 0.15796
+Training Loss: 0.0104
+
+
+Model evaluation.
+
+
+Model test error: 0.09089
+Training Loss: 0.0114
+
+
+Model evaluation.
+
+
+Model test error: 0.14654
+Training Loss: 0.0117
+
+
+Model evaluation.
+
+
+Model test error: 0.12897
+Training Loss: 0.0113
+
+
+Model evaluation.
+
+
+Model test error: 0.08982
+Training Loss: 0.0124
+
+
+Model evaluation.
+
+
+Model test error: 0.14314
+Training Loss: 0.0104
+
+
+Model evaluation.
+
+
+Model test error: 0.16297
+Training Loss: 0.0103
+
+
+Model evaluation.
+
+
+Model test error: 0.10177
+Training Loss: 0.0106
+
+
+Model evaluation.
+
+
+Model test error: 0.17792
+Training Loss: 0.0109
+
+
+Model evaluation.
+
+
+Model test error: 0.11657
+Training Loss: 0.0112
+
+
+Model evaluation.
+
+
+Model test error: 0.15195
+Training Loss: 0.0107
+
+
+Model evaluation.
+
+
+Model test error: 0.08124
+Training Loss: 0.0116
+
+
+Model evaluation.
+
+
+Model test error: 0.19928
+Training Loss: 0.0112
+
+
+Model evaluation.
+
+
+Model test error: 0.12485
+Training Loss: 0.0110
+
+
+Model evaluation.
+
+
+Model test error: 0.0913
+Training Loss: 0.0115
+
+
+Model evaluation.
+
+
+Model test error: 0.39843
+Training Loss: 0.0135
+
+
+Model evaluation.
+
+
+Model test error: 0.20289
+Training Loss: 0.0104
+
+
+Model evaluation.
+
+
+Model test error: 0.15091
+Training Loss: 0.0121
+
+
+Model evaluation.
+
+
+Model test error: 0.13019
+Training Loss: 0.0096
+
+
+Model evaluation.
+
+
+Model test error: 0.08945
+Training Loss: 0.0097
+
+
+Model evaluation.
+
+
+Model test error: 0.10295
+Training Loss: 0.0100
+
+
+Model evaluation.
+
+
+Model test error: 0.10932
+Training Loss: 0.0099
+
+
+Model evaluation.
+
+
+Model test error: 0.13908
+Training Loss: 0.0108
+
+
+Model evaluation.
+
+
+Model test error: 0.34778
+Training Loss: 0.0151
+
+
+Model evaluation.
+
+
+Model test error: 0.17939
+Training Loss: 0.0122
+
+
+Model evaluation.
+
+
+Model test error: 0.19816
+Training Loss: 0.0085
+
+
+Model evaluation.
+
+
+Model test error: 0.07657
+Training Loss: 0.0098
+
+
+Model evaluation.
+
+
+Model test error: 0.09776
+Training Loss: 0.0090
+
+
+Model evaluation.
+
+
+Model test error: 0.16766
+Training Loss: 0.0097
+
+
+Model evaluation.
+
+
+Model test error: 0.06148
+Training Loss: 0.0108
+
+
+Model evaluation.
+
+
+Model test error: 0.09555
+Training Loss: 0.0091
+
+
+Model evaluation.
+
+
+Model test error: 0.08474
+Training Loss: 0.0107
+
+
+Model evaluation.
+
+
+Model test error: 0.08675
+Training Loss: 0.0119
+
+
+Model evaluation.
+
+
+Model test error: 0.10321
+Training Loss: 0.0089
+
+
+Model evaluation.
+
+
+Model test error: 0.14986
+Training Loss: 0.0093
+
+
+Model evaluation.
+
+
+Model test error: 0.10379
+Training Loss: 0.0078
+
+
+Model evaluation.
+
+
+Model test error: 0.09327
+Training Loss: 0.0085
+
+
+Model evaluation.
+
+
+Model test error: 0.11473
+Training Loss: 0.0104
+
+
+Model evaluation.
+
+
+Model test error: 0.06978
+Training Loss: 0.0112
+
+
+Model evaluation.
+
+
+Model test error: 0.18397
+Training Loss: 0.0090
+
+
+Model evaluation.
+
+
+Model test error: 0.18865
+Training Loss: 0.0099
+
+
+Model evaluation.
+
+
+Model test error: 0.2559
+Training Loss: 0.0101
+
+
+Model evaluation.
+
+
+Model test error: 0.29766
+Training Loss: 0.0114
+
+
+Model evaluation.
+
+
+Model test error: 0.21449
+Training Loss: 0.0088
+
+
+Model evaluation.
+
+
+Model test error: 0.09254
+Training Loss: 0.0108
+
+
+Model evaluation.
+
+
+Model test error: 0.10404
+Training Loss: 0.0093
+
+
+Model evaluation.
+
+
+Model test error: 0.14065
+Training Loss: 0.0093
+
+
+Model evaluation.
+
+
+Model test error: 0.27884
+Training Loss: 0.0115
+
+
+Model evaluation.
+
+
+Model test error: 0.10698
+Training Loss: 0.0105
+
+
+Model evaluation.
+
+
+Model test error: 0.17119
+Training Loss: 0.0087
+
+
+Model evaluation.
+
+
+Model test error: 0.10904
+Training Loss: 0.0088
+
+
+Model evaluation.
+
+
+Model test error: 0.1685
+Training Loss: 0.0090
+
+
+Model evaluation.
+
+
+Model test error: 0.2347
+Training Loss: 0.0109
+
+
+Model evaluation.
+
+
+Model test error: 0.14576
+Training Loss: 0.0074
+
+
+Model evaluation.
+
+
+Model test error: 0.071
+Training Loss: 0.0106
+
+
+Model evaluation.
+
+
+Model test error: 0.10985
+Training Loss: 0.0139
+
+
+Model evaluation.
+
+
+Model test error: 0.06448
+Training Loss: 0.0096
+
+
+Model evaluation.
+
+
+Model test error: 0.13031
+Training Loss: 0.0086
+
+
+Model evaluation.
+
+
+Model test error: 0.19444
+Training Loss: 0.0128
+
+
+Model evaluation.
+
+
+Model test error: 0.16806
+Training Loss: 0.0112
+
+
+Model evaluation.
+
+
+Model test error: 0.10324
+Training Loss: 0.0080
+
+
+Model evaluation.
+
+
+Model test error: 0.18982
+Training Loss: 0.0075
+
+
+Model evaluation.
+
+
+Model test error: 0.06612
+Training Loss: 0.0090
+
+
+Model evaluation.
+
+
+Model test error: 0.29106
+Training Loss: 0.0088
+
+
+Model evaluation.
+
+
+Model test error: 0.10932
+Training Loss: 0.0080
+
+
+Model evaluation.
+
+
+Model test error: 0.09273
+Training Loss: 0.0092
+
+
+Model evaluation.
+
+
+Model test error: 0.09674
+Training Loss: 0.0087
+
+
+Model evaluation.
+
+
+Model test error: 0.10751
+Training Loss: 0.0093
+
+
+Model evaluation.
+
+
+Model test error: 0.10268
+Training Loss: 0.0093
+
+
+Model evaluation.
+
+
+Model test error: 0.12791
+Training Loss: 0.0104
+
+
+Model evaluation.
+
+
+Model test error: 0.12969
+Training Loss: 0.0089
+
+
+Model evaluation.
+
+
+Model test error: 0.08462
+Training Loss: 0.0084
+
+
+Model evaluation.
+
+
+Model test error: 0.1634
+Training Loss: 0.0074
+
+
+Model evaluation.
+
+
+Model test error: 0.17838
+Training Loss: 0.0079
+
+
+Model evaluation.
+
+
+Model test error: 0.10718
+Training Loss: 0.0077
+
+
+Model evaluation.
+
+
+Model test error: 0.14378
+Training Loss: 0.0086
+
+
+Model evaluation.
+
+
+Model test error: 0.17085
+Training Loss: 0.0084
+
+
+Model evaluation.
+
+
+Model test error: 0.1403
+Training Loss: 0.0107
+
+
+Model evaluation.
+
+
+Model test error: 0.12791
+Training Loss: 0.0081
+
+
+Model evaluation.
+
+
+Model test error: 0.12793
+Training Loss: 0.0081
+
+
+Model evaluation.
+
+
+Model test error: 0.15908
+Training Loss: 0.0064
+
+
+Model evaluation.
+
+
+Model test error: 0.13521
+Training Loss: 0.0077
+
+
+Model evaluation.
+
+
+Model test error: 0.23502
+Training Loss: 0.0075
+
+
+Model evaluation.
+
+
+Model test error: 0.15578
+Training Loss: 0.0069
+
+
+Model evaluation.
+
+
+Model test error: 0.11435
+Training Loss: 0.0086
+
+
+Model evaluation.
+
+
+Model test error: 0.08454
+Training Loss: 0.0090
+
+
+Model evaluation.
+
+
+Model test error: 0.17622
+Training Loss: 0.0087
+
+
+Model evaluation.
+
+
+Model test error: 0.10461
+Training Loss: 0.0080
+
+
+Model evaluation.
+
+
+Model test error: 0.19113
+Training Loss: 0.0089
+
+
+Model evaluation.
+
+
+Model test error: 0.14774
+Training Loss: 0.0095
+
+
+Model evaluation.
+
+
+Model test error: 0.27367
+Training Loss: 0.0093
+
+
+Model evaluation.
+
+
+Model test error: 0.10643
+Training Loss: 0.0089
+
+
+Model evaluation.
+
+
+Model test error: 0.08372
+Training Loss: 0.0083
+
+
+Model evaluation.
+
+
+Model test error: 0.12691
+Training Loss: 0.0086
+
+
+Model evaluation.
+
+
+Model test error: 0.1073
+Training Loss: 0.0094
+
+
+Model evaluation.
+
+
+Model test error: 0.09456
+Training Loss: 0.0097
+
+
+Model evaluation.
+
+
+Model test error: 0.09191
+Training Loss: 0.0078
+
+
+Model evaluation.
+
+
+Model test error: 0.10832
+Training Loss: 0.0078
+
+
+Model evaluation.
+
+
+Model test error: 0.1164
+Training Loss: 0.0072
+
+
+Model evaluation.
+
+
+Model test error: 0.12593
+Training Loss: 0.0064
+
+
+Model evaluation.
+
+
+Model test error: 0.16416
+Training Loss: 0.0068
+
+
+Model evaluation.
+
+
+Model test error: 0.16768
+Training Loss: 0.0072
+
+
+Model evaluation.
+
+
+Model test error: 0.21365
+Training Loss: 0.0081
+
+
+Model evaluation.
+
+
+Model test error: 0.11264
+Training Loss: 0.0099
+
+
+Model evaluation.
+
+
+Model test error: 0.10803
+Training Loss: 0.0114
+
+
+Model evaluation.
+
+
+Model test error: 0.07287
+Training Loss: 0.0076
+
+
+Model evaluation.
+
+
+Model test error: 0.1109
+Training Loss: 0.0108
+
+
+Model evaluation.
+
+
+Model test error: 0.07075
+Training Loss: 0.0094
+
+
+Model evaluation.
+
+
+Model test error: 0.08752
+Training Loss: 0.0075
+
+
+Model evaluation.
+
+
+Model test error: 0.12398
+Training Loss: 0.0086
+
+
+Model evaluation.
+
+
+Model test error: 0.12618
+Training Loss: 0.0095
+
+
+Model evaluation.
+
+
+Model test error: 0.21482
+Training Loss: 0.0076
+
+
+Model evaluation.
+
+
+Model test error: 0.10546
+Training Loss: 0.0112
+
+
+Model evaluation.
+
+
+Model test error: 0.06995
+Training Loss: 0.0085
+
+
+Model evaluation.
+
+
+Model test error: 0.10953
+Training Loss: 0.0075
+
+
+Model evaluation.
+
+
+Model test error: 0.09208
+Training Loss: 0.0073
+
+
+Model evaluation.
+
+
+Model test error: 0.0971
+Training Loss: 0.0074
+
+
+Model evaluation.
+
+
+Model test error: 0.17163
+Training Loss: 0.0062
+
+
+Model evaluation.
+
+
+Model test error: 0.08048
+Training Loss: 0.0078
+
+
+Model evaluation.
+
+
+Model test error: 0.21955
+Training Loss: 0.0089
+
+
+Model evaluation.
+
+
+Model test error: 0.09908
+Training Loss: 0.0066
+
+
+Model evaluation.
+
+
+Model test error: 0.12639
+Training Loss: 0.0069
+
+
+Model evaluation.
+
+
+Model test error: 0.16058
+Training Loss: 0.0082
+
+
+Model evaluation.
+
+
+Model test error: 0.12931
+Training Loss: 0.0086
+
+
+Model evaluation.
+
+
+Model test error: 0.17303
+Training Loss: 0.0112
+
+
+Model evaluation.
+
+
+Model test error: 0.12468
+Training Loss: 0.0083
+
+
+Model evaluation.
+
+
+Model test error: 0.07925
+Training Loss: 0.0084
+
+
+Model evaluation.
+
+
+Model test error: 0.09879
+Training Loss: 0.0079
+
+
+Model evaluation.
+
+
+Model test error: 0.06818
+Training Loss: 0.0069
+
+
+Model evaluation.
+
+
+Model test error: 0.11093
+Training Loss: 0.0085
+
+
+Model evaluation.
+
+
+Model test error: 0.15753
+Training Loss: 0.0076
+
+
+Model evaluation.
+
+
+Model test error: 0.14419
+Training Loss: 0.0070
+
+
+Model evaluation.
+
+
+Model test error: 0.10629
+Training Loss: 0.0065
+
+
+Model evaluation.
+
+
+Model test error: 0.07035
+Training Loss: 0.0069
+
+
+Model evaluation.
+
+
+Model test error: 0.09887
+Training Loss: 0.0066
+
+
+Model evaluation.
+
+
+Model test error: 0.17634
+Training Loss: 0.0082
+
+
+Model evaluation.
+
+
+Model test error: 0.08873
+Training Loss: 0.0082
+
+
+Model evaluation.
+
+
+Model test error: 0.10236
+Training Loss: 0.0070
+
+
+Model evaluation.
+
+
+Model test error: 0.10967
+Training Loss: 0.0069
+
+
+Model evaluation.
+
+
+Model test error: 0.1027
+Training Loss: 0.0066
+
+
+Model evaluation.
+
+
+Model test error: 0.12441
+Training Loss: 0.0064
+
+
+Model evaluation.
+
+
+Model test error: 0.05771
+Training Loss: 0.0069
+
+
+Model evaluation.
+
+
+Model test error: 0.0861
+Training Loss: 0.0073
+
+
+Model evaluation.
+
+
+Model test error: 0.07078
+Training Loss: 0.0070
+
+
+Model evaluation.
+
+
+Model test error: 0.09282
+Training Loss: 0.0081
+
+
+Model evaluation.
+
+
+Model test error: 0.05656
+Training Loss: 0.0075
+
+
+Model evaluation.
+
+
+Model test error: 0.06705
+Training Loss: 0.0058
+
+
+Model evaluation.
+
+
+Model test error: 0.11691
+Training Loss: 0.0056
+
+
+Model evaluation.
+
+
+Model test error: 0.06913
+Training Loss: 0.0061
+
+
+Model evaluation.
+
+
+Model test error: 0.11924
+Training Loss: 0.0058
+
+
+Model evaluation.
+
+
+Model test error: 0.06507
+Training Loss: 0.0061
+
+
+Model evaluation.
+
+
+Model test error: 0.11372
+Training Loss: 0.0071
+
+
+Model evaluation.
+
+
+Model test error: 0.06406
+Training Loss: 0.0072
+
+
+Model evaluation.
+
+
+Model test error: 0.05224
+Training Loss: 0.0098
+
+
+Model evaluation.
+
+
+Model test error: 0.05513
+Training Loss: 0.0079
+
+
+Model evaluation.
+
+
+Model test error: 0.05853
+Training Loss: 0.0081
+
+
+Model evaluation.
+
+
+Model test error: 0.09908
+Training Loss: 0.0091
+
+
+Model evaluation.
+
+
+Model test error: 0.06875
+Training Loss: 0.0076
+
+
+Model evaluation.
+
+
+Model test error: 0.07588
+Training Loss: 0.0084
+
+
+Model evaluation.
+
+
+Model test error: 0.05493
+Training Loss: 0.0080
+
+
+Model evaluation.
+
+
+Model test error: 0.05895
+Training Loss: 0.0058
+
+
+Model evaluation.
+
+
+Model test error: 0.10756
+Training Loss: 0.0064
+
+
+Model evaluation.
+
+
+Model test error: 0.04738
+Training Loss: 0.0061
+
+
+Model evaluation.
+
+
+Model test error: 0.06171
+Training Loss: 0.0063
+
+
+Model evaluation.
+
+
+Model test error: 0.06181
+Training Loss: 0.0050
+
+
+Model evaluation.
+
+
+Model test error: 0.06049
+Training Loss: 0.0063
+
+
+Model evaluation.
+
+
+Model test error: 0.07407
+Training Loss: 0.0059
+
+
+Model evaluation.
+
+
+Model test error: 0.04766
+Training Loss: 0.0063
+
+
+Model evaluation.
+
+
+Model test error: 0.08414
+Training Loss: 0.0077
+
+
+Model evaluation.
+
+
+Model test error: 0.07771
+Training Loss: 0.0089
+
+
+Model evaluation.
+
+
+Model test error: 0.05076
+Training Loss: 0.0063
+
+
+Model evaluation.
+
+
+Model test error: 0.04644
+Training Loss: 0.0055
+
+
+Model evaluation.
+
+
+Model test error: 0.06691
+Training Loss: 0.0061
+
+
+Model evaluation.
+
+
+Model test error: 0.05355
+Training Loss: 0.0061
+
+
+Model evaluation.
+
+
+Model test error: 0.0816
+Training Loss: 0.0062
+
+
+Model evaluation.
+
+
+Model test error: 0.04087
+Training Loss: 0.0056
+
+
+Model evaluation.
+
+
+Model test error: 0.08198
+Training Loss: 0.0065
+
+
+Model evaluation.
+
+
+Model test error: 0.10634
+Training Loss: 0.0068
+
+
+Model evaluation.
+
+
+Model test error: 0.03814
+Training Loss: 0.0052
+
+
+Model evaluation.
+
+
+Model test error: 0.04944
+Training Loss: 0.0056
+
+
+Model evaluation.
+
+
+Model test error: 0.04872
+Training Loss: 0.0052
+
+
+Model evaluation.
+
+
+Model test error: 0.04183
+Training Loss: 0.0090
+
+
+Model evaluation.
+
+
+Model test error: 0.04706
+Training Loss: 0.0073
+
+
+Model evaluation.
+
+
+Model test error: 0.04789
+Training Loss: 0.0065
+
+
+Model evaluation.
+
+
+Model test error: 0.04141
+Training Loss: 0.0067
+
+
+Model evaluation.
+
+
+Model test error: 0.04696
+Training Loss: 0.0052
+
+
+Model evaluation.
+
+
+Model test error: 0.09556
+Training Loss: 0.0085
+
+
+Model evaluation.
+
+
+Model test error: 0.03636
+Training Loss: 0.0059
+
+
+Model evaluation.
+
+
+Model test error: 0.04116
+Training Loss: 0.0059
+
+
+Model evaluation.
+
+
+Model test error: 0.112
+Training Loss: 0.0090
+
+
+Model evaluation.
+
+
+Model test error: 0.03192
+Training Loss: 0.0066
+
+
+Model evaluation.
+
+
+Model test error: 0.04772
+Training Loss: 0.0075
+
+
+Model evaluation.
+
+
+Model test error: 0.03377
+Training Loss: 0.0054
+
+
+Model evaluation.
+
+
+Model test error: 0.06577
+Training Loss: 0.0061
+
+
+Model evaluation.
+
+
+Model test error: 0.03181
+Training Loss: 0.0069
+
+
+Model evaluation.
+
+
+Model test error: 0.05983
+Training Loss: 0.0054
+
+
+Model evaluation.
+
+
+Model test error: 0.0301
+Training Loss: 0.0047
+
+
+Model evaluation.
+
+
+Model test error: 0.03552
+Training Loss: 0.0061
+
+
+Model evaluation.
+
+
+Model test error: 0.03685
+Training Loss: 0.0041
+
+
+Model evaluation.
+
+
+Model test error: 0.04336
+Training Loss: 0.0052
+
+
+Model evaluation.
+
+
+Model test error: 0.03766
+Training Loss: 0.0060
+
+
+Model evaluation.
+
+
+Model test error: 0.03872
+Training Loss: 0.0049
+
+
+Model evaluation.
+
+
+Model test error: 0.05813
+Training Loss: 0.0059
+
+
+Model evaluation.
+
+
+Model test error: 0.05542
+Training Loss: 0.0043
+
+
+Model evaluation.
+
+
+Model test error: 0.03258
+Training Loss: 0.0053
+
+
+Model evaluation.
+
+
+Model test error: 0.03831
+Training Loss: 0.0055
+
+
+Model evaluation.
+
+
+Model test error: 0.05149
+Training Loss: 0.0061
+
+
+Model evaluation.
+
+
+Model test error: 0.03282
+Training Loss: 0.0057
+
+
+Model evaluation.
+
+
+Model test error: 0.04655
+Training Loss: 0.0080
+
+
+Model evaluation.
+
+
+Model test error: 0.07461
+Training Loss: 0.0171
+
+
+Model evaluation.
+
+
+Model test error: 0.04139
+Training Loss: 0.0073
+
+
+Model evaluation.
+
+
+Model test error: 0.03794
+Training Loss: 0.0092
+
+
+Model evaluation.
+
+
+Model test error: 0.05135
+Training Loss: 0.0120
+
+
+Model evaluation.
+
+
+Model test error: 0.04224
+Training Loss: 0.0078
+
+
+Model evaluation.
+
+
+Model test error: 0.04203
+Training Loss: 0.0061
+
+
+Model evaluation.
+
+
+Model test error: 0.03249
+Training Loss: 0.0052
+
+
+Model evaluation.
+
+
+Model test error: 0.05256
+Training Loss: 0.0059
+
+
+Model evaluation.
+
+
+Model test error: 0.03295
+Training Loss: 0.0050
+
+
+Model evaluation.
+
+
+Model test error: 0.06915
+Training Loss: 0.0074
+
+
+Model evaluation.
+
+
+Model test error: 0.06847
+Training Loss: 0.0075
+
+
+Model evaluation.
+
+
+Model test error: 0.07233
+Training Loss: 0.0067
+
+
+Model evaluation.
+
+
+Model test error: 0.06717
+Training Loss: 0.0059
+
+
+Model evaluation.
+
+
+Model test error: 0.03073
+Training Loss: 0.0049
+
+
+Model evaluation.
+
+
+Model test error: 0.03893
+Training Loss: 0.0049
+
+
+Model evaluation.
+
+
+Model test error: 0.03222
+Training Loss: 0.0049
+
+
+Model evaluation.
+
+
+Model test error: 0.06118
+Training Loss: 0.0059
+
+
+Model evaluation.
+
+
+Model test error: 0.04052
+Training Loss: 0.0058
+
+
+Model evaluation.
+
+
+Model test error: 0.05615
+Training Loss: 0.0055
+
+
+Model evaluation.
+
+
+Model test error: 0.04083
+Training Loss: 0.0046
+
+
+Model evaluation.
+
+
+Model test error: 0.0351
+Training Loss: 0.0049
+
+
+Model evaluation.
+
+
+Model test error: 0.05885
+Training Loss: 0.0042
+
+
+Model evaluation.
+
+
+Model test error: 0.0315
+Training Loss: 0.0067
+
+
+Model evaluation.
+
+
+Model test error: 0.05613
+Training Loss: 0.0053
+
+
+Model evaluation.
+
+
+Model test error: 0.04155
+Training Loss: 0.0060
+
+
+Model evaluation.
+
+
+Model test error: 0.03922
+Training Loss: 0.0062
+
+
+Model evaluation.
+
+
+Model test error: 0.04249
+Training Loss: 0.0058
+
+
+Model evaluation.
+
+
+Model test error: 0.04167
+Training Loss: 0.0042
+
+
+Model evaluation.
+
+
+Model test error: 0.03806
+Training Loss: 0.0063
+
+
+Model evaluation.
+
+
+Model test error: 0.03736
+Training Loss: 0.0069
+
+
+Model evaluation.
+
+
+Model test error: 0.03096
+Training Loss: 0.0079
+
+
+Model evaluation.
+
+
+Model test error: 0.03321
+Training Loss: 0.0073
+
+
+Model evaluation.
+
+
+Model test error: 0.03542
+Training Loss: 0.0059
+
+
+Model evaluation.
+
+
+Model test error: 0.03994
+Training Loss: 0.0044
+
+
+Model evaluation.
+
+
+Model test error: 0.02662
+Training Loss: 0.0075
+
+
+Model evaluation.
+
+
+Model test error: 0.03002
+Training Loss: 0.0042
+
+
+Model evaluation.
+
+
+Model test error: 0.04757
+Training Loss: 0.0067
+
+
+Model evaluation.
+
+
+Model test error: 0.04896
+Training Loss: 0.0046
+
+
+Model evaluation.
+
+
+Model test error: 0.04418
+Training Loss: 0.0050
+
+
+Model evaluation.
+
+
+Model test error: 0.04502
+Training Loss: 0.0065
+
+
+Model evaluation.
+
+
+Model test error: 0.0262
+Training Loss: 0.0055
+
+
+Model evaluation.
+
+
+Model test error: 0.0503
+Training Loss: 0.0068
+
+
+Model evaluation.
+
+
+Model test error: 0.09744
+Training Loss: 0.0142
+
+
+Model evaluation.
+
+
+Model test error: 0.02638
+Training Loss: 0.0105
+
+
+Model evaluation.
+
+
+Model test error: 0.04819
+Training Loss: 0.0064
+
+
+Model evaluation.
+
+
+Model test error: 0.03296
+Training Loss: 0.0058
+
+
+Model evaluation.
+
+
+Model test error: 0.03362
+Training Loss: 0.0049
+
+
+Model evaluation.
+
+
+Model test error: 0.04632
+Training Loss: 0.0056
+
+
+Model evaluation.
+
+
+Model test error: 0.02764
+Training Loss: 0.0051
+
+
+Model evaluation.
+
+
+Model test error: 0.03397
+Training Loss: 0.0049
+
+
+Model evaluation.
+
+
+Model test error: 0.03354
+Training Loss: 0.0054
+
+
+Model evaluation.
+
+
+Model test error: 0.06163
+Training Loss: 0.0043
+
+
+Model evaluation.
+
+
+Model test error: 0.03156
+Training Loss: 0.0057
+
+
+Model evaluation.
+
+
+Model test error: 0.05132
+Training Loss: 0.0067
+
+
+Model evaluation.
+
+
+Model test error: 0.05198
+Training Loss: 0.0069
+
+
+Model evaluation.
+
+
+Model test error: 0.05521
+Training Loss: 0.0058
+
+
+Model evaluation.
+
+
+Model test error: 0.04033
+Training Loss: 0.0046
+
+
+Model evaluation.
+
+
+Model test error: 0.05746
+Training Loss: 0.0073
+
+
+Model evaluation.
+
+
+Model test error: 0.05043
+Training Loss: 0.0054
+
+
+Model evaluation.
+
+
+Model test error: 0.04553
+Training Loss: 0.0049
+
+
+Model evaluation.
+
+
+Model test error: 0.0321
+Training Loss: 0.0059
+
+
+Model evaluation.
+
+
+Model test error: 0.02988
+Training Loss: 0.0050
+
+
+Model evaluation.
+
+
+Model test error: 0.04509
+Training Loss: 0.0046
+
+
+Model evaluation.
+
+
+Model test error: 0.0258
+Training Loss: 0.0043
+
+
+Model evaluation.
+
+
+Model test error: 0.03089
+Training Loss: 0.0043
+
+
+Model evaluation.
+
+
+Model test error: 0.04181
+Training Loss: 0.0045
+
+
+Model evaluation.
+
+
+Model test error: 0.027
+Training Loss: 0.0063
+
+
+Model evaluation.
+
+
+Model test error: 0.0297
+Training Loss: 0.0070
+
+
+Model evaluation.
+
+
+Model test error: 0.03487
+Training Loss: 0.0061
+
+
+Model evaluation.
+
+
+Model test error: 0.02946
+Training Loss: 0.0059
+
+
+Model evaluation.
+
+
+Model test error: 0.03801
+Training Loss: 0.0046
+
+
+Model evaluation.
+
+
+Model test error: 0.02938
+Training Loss: 0.0051
+
+
+Model evaluation.
+
+
+Model test error: 0.02505
+Training Loss: 0.0066
+
+
+Model evaluation.
+
+
+Model test error: 0.02627
+Training Loss: 0.0053
+
+
+Model evaluation.
+
+
+Model test error: 0.03141
+Training Loss: 0.0055
+
+
+Model evaluation.
+
+
+Model test error: 0.05331
+Training Loss: 0.0063
+
+
+Model evaluation.
+
+
+Model test error: 0.05754
+Training Loss: 0.0064
+
+
+Model evaluation.
+
+
+Model test error: 0.05432
+Training Loss: 0.0071
+
+
+Model evaluation.
+
+
+Model test error: 0.02821
+Training Loss: 0.0064
+
+
+Model evaluation.
+
+
+Model test error: 0.02567
+Training Loss: 0.0046
+
+
+Model evaluation.
+
+
+Model test error: 0.02363
+Training Loss: 0.0043
+
+
+Model evaluation.
+
+
+Model test error: 0.02597
+Training Loss: 0.0050
+
+
+Model evaluation.
+
+
+Model test error: 0.03696
+Training Loss: 0.0045
+
+
+Model evaluation.
+
+
+Model test error: 0.02867
+Training Loss: 0.0074
+
+
+Model evaluation.
+
+
+Model test error: 0.03563
+Training Loss: 0.0054
+
+
+Model evaluation.
+
+
+Model test error: 0.02911
+Training Loss: 0.0059
+
+
+Model evaluation.
+
+
+Model test error: 0.02833
+Training Loss: 0.0056
+
+
+Model evaluation.
+
+
+Model test error: 0.05245
+Training Loss: 0.0073
+
+
+Model evaluation.
+
+
+Model test error: 0.04624
+Training Loss: 0.0051
+
+
+Model evaluation.
+
+
+Model test error: 0.03464
+Training Loss: 0.0078
+
+
+Model evaluation.
+
+
+Model test error: 0.03244
+Training Loss: 0.0048
+
+
+Model evaluation.
+
+
+Model test error: 0.03195
+Training Loss: 0.0056
+
+
+Model evaluation.
+
+
+Model test error: 0.07263
+Training Loss: 0.0073
+
+
+Model evaluation.
+
+
+Model test error: 0.03563
+Training Loss: 0.0060
+
+
+Model evaluation.
+
+
+Model test error: 0.08153
+Training Loss: 0.0082
+
+
+Model evaluation.
+
+
+Model test error: 0.03807
+Training Loss: 0.0053
+
+
+Model evaluation.
+
+
+Model test error: 0.02725
+Training Loss: 0.0053
+
+
+Model evaluation.
+
+
+Model test error: 0.06117
+Training Loss: 0.0119
+
+
+Model evaluation.
+
+
+Model test error: 0.09416
+Training Loss: 0.0061
+
+
+Model evaluation.
+
+
+Model test error: 0.0361
+Training Loss: 0.0041
+
+
+Model evaluation.
+
+
+Model test error: 0.0299
+Training Loss: 0.0042
+
+
+Model evaluation.
+
+
+Model test error: 0.02652
+Training Loss: 0.0051
+
+
+Model evaluation.
+
+
+Model test error: 0.02774
+Training Loss: 0.0053
+
+
+Model evaluation.
+
+
+Model test error: 0.06357
+Training Loss: 0.0047
+
+
+Model evaluation.
+
+
+Model test error: 0.02592
+Training Loss: 0.0048
+
+
+Model evaluation.
+
+
+Model test error: 0.02608
+Training Loss: 0.0046
+
+
+Model evaluation.
+
+
+Model test error: 0.02933
+Training Loss: 0.0073
+
+
+Model evaluation.
+
+
+Model test error: 0.02899
+Training Loss: 0.0060
+
+
+Model evaluation.
+
+
+Model test error: 0.03324
+Training Loss: 0.0054
+
+
+Model evaluation.
+
+
+Model test error: 0.0314
+Training Loss: 0.0058
+
+
+Model evaluation.
+
+
+Model test error: 0.06802
+Training Loss: 0.0036
+
+
+Model evaluation.
+
+
+Model test error: 0.0351
+Training Loss: 0.0049
+
+
+Model evaluation.
+
+
+Model test error: 0.04254
+Training Loss: 0.0049
+
+
+Model evaluation.
+
+
+Model test error: 0.04176
+Training Loss: 0.0053
+
+
+Model evaluation.
+
+
+Model test error: 0.04898
+Training Loss: 0.0066
+
+
+Model evaluation.
+
+
+Model test error: 0.02817
+Training Loss: 0.0046
+
+
+Model evaluation.
+
+
+Model test error: 0.03289
+Training Loss: 0.0046
+
+
+Model evaluation.
+
+
+Model test error: 0.02808
+Training Loss: 0.0053
+
+
+Model evaluation.
+
+
+Model test error: 0.03268
+Training Loss: 0.0085
+
+
+Model evaluation.
+
+
+Model test error: 0.02745
+Training Loss: 0.0056
+
+
+Model evaluation.
+
+
+Model test error: 0.04118
+Training Loss: 0.0041
+
+
+Model evaluation.
+
+
+Model test error: 0.04496
+Training Loss: 0.0056
+
+
+Model evaluation.
+
+
+Model test error: 0.03079
+Training Loss: 0.0054
+
+
+Model evaluation.
+
+
+Model test error: 0.05796
+
+
+Model evaluation.
+
+
+Model test error: 0.05796
